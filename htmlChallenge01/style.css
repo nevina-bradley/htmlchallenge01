@@ -1,0 +1,161 @@
+h1, h2 {
+    font-family: 'Noto Serif Lao', serif;
+}
+
+h1 {
+    letter-spacing: 2px;
+    font-size: 40px;
+}
+
+h2 {
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.secondNav {
+    text-align: right;
+}
+
+#search {
+    height: 2%;
+    width: 2%;
+    padding: 1%;
+    margin-right: 3%;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+#profile {
+    height: 5%;
+    width: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+#bag {
+    height: 2%;
+    width: 2%;
+    padding: 1%;
+    margin-left: 1%;
+    margin-right: 2%;
+    background-color: #E2D5FC;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+#mainPicture {
+    width: 50%;
+    height: 50%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#arrow1 {
+    height: 2%;
+    width: 2%;
+    padding: 1%;
+    text-align: center;
+    float: right;
+    color: white;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+#arrow2 {
+    height: 2%;
+    width: 2%;
+    padding: 1%;
+    text-align: center;
+    float: right;
+    background-color: #E2D5FC;
+    color: black;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+#large {
+    font-size: xx-large;
+    font-family: 'Noto Serif Lao', serif;
+    padding-top: 3%;
+}
+
+#small {
+    font-family: 'Noto Serif Lao', serif;
+}
+
+#dress {
+    width: 25%;
+    height: 50%;
+}
+
+#location {
+    height: 4%;
+    width: 4%;
+    float: left;
+    padding-right: 3%;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #EFE3D3;
+    color: #ffffff;
+}
+
+.green {
+    background-color: #576851;
+    height: 75vh;
+    width: 50vw;
+    float: left;
+    position: relative;
+    left: 5%;
+}
+
+.beige {
+    background-color: #9E8366;
+    height: 75vh;
+    width: 50vw;
+    float: right;
+    text-align: right;
+    position: relative;
+    right: 5%;
+}
+
+.circle {
+    color: #000000;
+    background-color: #F9F6ED;
+    width: 16%;
+    height: 16%;
+    text-align: center;
+    position: absolute;
+    float: right;
+    font-size: 12px;
+    border-radius: 50%;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    padding-right: 3%;
+}
+
+#balance {
+    padding-right: 1%;
+}
+
+.button {
+    background-color: #E2D5FC;
+    padding: 2%;
+    font-weight: 900;
+    font-family: 'Noto Serif Lao', serif;
+}
+
+#facebook, #google, #instagram {
+    height: 4%;
+    width: 4%;
+    padding-right: 3%;
+}
